@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie Survival Sim", "Zombie Survival Sim\Zombie Survival Sim.csproj", "{02AF27B8-9296-4A80-8345-EAAB192DA474}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02AF27B8-9296-4A80-8345-EAAB192DA474}.Debug|x86.ActiveCfg = Debug|x86
+		{02AF27B8-9296-4A80-8345-EAAB192DA474}.Debug|x86.Build.0 = Debug|x86
+		{02AF27B8-9296-4A80-8345-EAAB192DA474}.Release|x86.ActiveCfg = Release|x86
+		{02AF27B8-9296-4A80-8345-EAAB192DA474}.Release|x86.Build.0 = Release|x86
+		{A783388A-242C-4179-A5C0-3E52E5686501}.Debug|x86.ActiveCfg = Debug|x86
+		{A783388A-242C-4179-A5C0-3E52E5686501}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
